@@ -10,3 +10,7 @@ welcome to the page i learn to code. im also learning github and this is my firs
 does that start a new line
 /n/
 test
+it didnt. how do i new line?
+
+
+double line?
